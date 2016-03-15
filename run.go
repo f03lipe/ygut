@@ -39,7 +39,7 @@ func S3UploadBody(path string, body []byte) error {
 	return nil
 }
 
-func main() {
+func Amain() {
 	fmt.Println("Starting run.go")
 
 	port := os.Getenv("PORT")
