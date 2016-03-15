@@ -1,0 +1,967 @@
+<?xml version="1.0" ?> 
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+	<atom:link href="http://www.yaledining.org/rss/menu.xml" rel="self" type="application/rss+xml" />
+    <title>Yale Dining Menu &amp; Nutrition Center</title>
+    <link>http://www.yaledining.org/menu_selector.cfm</link>
+    <description>RSS Feed of daily dining location menus.</description>
+    <language>en-us</language>
+    <copyright>Copyright 2009-13 Yale Dining</copyright>
+
+    <lastBuildDate>Mon, 14 Mar 2016 02:01:00 EST</lastBuildDate>
+
+<image>
+    <title>Yale Dining Menu &amp; Nutrition Center</title>
+    <url>http://www.yaledining.org/resources/images/heading_section_dining.gif</url>
+    <link>http://www.yaledining.org/menu_selector.cfm</link>
+</image> 
+
+<item>
+	  <guid isPermaLink="false">73B699A1-D8A7-8558-9EFCFC8F38EC0209</guid>
+      <title>Jonathan Edwards Menu for Mon, Mar 14, 16</title>
+      <description>	  
+	  &lt;p&gt;Menus as served are subject to local changes.&lt;/p&gt;
+	
+	    	&lt;br&gt;&lt;strong&gt;Brunch&lt;/strong&gt; &lt;br&gt;
+        
+		THE SALAD 
+&lt;UL&gt;
+&lt;LI&gt;At The Salad Bar build-your-own salad using a variety of salad greens, fresh vegetables, plant proteins, other toppings and salad dressings. 
+&lt;/LI&gt;
+											
+                &lt;/UL&gt;
+			THE DELI 
+&lt;UL&gt;
+&lt;LI&gt;Make-your-own Sandwich from turkey breast, ham, hummus, assorted cheeses, assorted sandwich  salads, lettuce leaves, sliced tomatoes, sliced red onion, pickles, assorted spreads, breads and rolls. 
+&lt;/LI&gt;
+											
+                &lt;/UL&gt;
+			
+	    	&lt;br&gt;&lt;strong&gt;Lunch&lt;/strong&gt; &lt;br&gt;
+        
+		ENTREES 
+&lt;UL&gt;
+&lt;LI&gt;Buffalo Chicken Thighs 
+&lt;/LI&gt;
+											
+                &lt;/UL&gt;
+			THE SOUP 
+&lt;UL&gt;
+&lt;LI&gt;Amish Corn and Chicken Soup [E] [SY] [W] [G] 
+&lt;/LI&gt;
+											
+                &lt;/UL&gt;
+			THE SALAD 
+&lt;UL&gt;
+&lt;LI&gt;Superfood Slaw with Apple Cider Vinaigrette, Pecans, and Golden Raisins [V] [A] [N] [VT] 
+&lt;/LI&gt;
+											
+                
+&lt;LI&gt;White Bean Salad with Watercress, Rainbow Chard, and Parmesan Cheese [D] [VT] 
+&lt;/LI&gt;
+											
+                
+&lt;LI&gt;Caesar Salad [D] [FS] [SY] [W] [G] 
+&lt;/LI&gt;
+											
+                &lt;/UL&gt;
+			STARCHES 
+&lt;UL&gt;
+&lt;LI&gt;Vegan Baked Beans [V] [VT] 
+&lt;/LI&gt;
+											
+                
+&lt;LI&gt;Penne Pasta [V] [W] [G] [VT] 
+&lt;/LI&gt;
+											
+                
+&lt;LI&gt;All-Natural Tomato Sauce [V] [VT] 
+&lt;/LI&gt;
+											
+                
+&lt;LI&gt;Pesto Alfredo Sauce [D] [SY] [VT] 
+&lt;/LI&gt;
+											
+                &lt;/UL&gt;
+			THE VEGETABLES 
+&lt;UL&gt;
+&lt;LI&gt;Roasted Broccoli Florets [V] [VT] 
+&lt;/LI&gt;
+											
+                
+&lt;LI&gt;Baked Acorn Squash [VT] 
+&lt;/LI&gt;
+											
+                &lt;/UL&gt;
+			DESSERTS 
+&lt;UL&gt;
+&lt;LI&gt;Triple Fudge Cookies [A] [D] [E] [SY] [W] [G] [VT] 
+&lt;/LI&gt;
+											
+                
+&lt;LI&gt;Butterscotch Blondies [A] [D] [E] [SY] [W] [G] [VT] 
+&lt;/LI&gt;
+											
+                &lt;/UL&gt;
+			THE GRILL 
+&lt;UL&gt;
+&lt;LI&gt;The Naked Hummel Nitrate-Free Hot Dog [SY] [W] [G] 
+&lt;/LI&gt;
+											
+                &lt;/UL&gt;
+			CEREALS 
+&lt;UL&gt;
+&lt;LI&gt;Whole-Grain Irish Oatmeal [V] [VT] 
+&lt;/LI&gt;
+											
+                &lt;/UL&gt;
+			ACCOMPANIMENTS 
+&lt;UL&gt;
+&lt;LI&gt;Western Picnic Hot Dog Toppings [D] [P] 
+&lt;/LI&gt;
+											
+                
+&lt;LI&gt;Corn Dog Toppings [P] 
+&lt;/LI&gt;
+											
+                
+&lt;LI&gt;Firecracker Hot Dog Toppings [D] [VT] 
+&lt;/LI&gt;
+											
+                
+&lt;LI&gt;Blue Cheese Dip [D] [VT] 
+&lt;/LI&gt;
+											
+                &lt;/UL&gt;
+			
+	    	&lt;br&gt;&lt;strong&gt;Dinner&lt;/strong&gt; &lt;br&gt;
+        
+		ENTREES 
+&lt;UL&gt;
+&lt;LI&gt;Herb Crusted Pork Loin with Port Wine Sauce [A] [D] [P] [SY] [W] [G] 
+&lt;/LI&gt;
+											
+                
+&lt;LI&gt;Caramelized Onions and Gouda Flatbreads [D] [SY] [W] [G] [VT] 
+&lt;/LI&gt;
+											
+                
+&lt;LI&gt;Braised Lentils with Kale [V] [SY] [VT] 
+&lt;/LI&gt;
+											
+                &lt;/UL&gt;
+			THE SOUP 
+&lt;UL&gt;
+&lt;LI&gt;Amish Corn and Chicken Soup [E] [SY] [W] [G] 
+&lt;/LI&gt;
+											
+                &lt;/UL&gt;
+			THE SALAD 
+&lt;UL&gt;
+&lt;LI&gt;White Bean Salad with Watercress, Rainbow Chard, and Parmesan Cheese [D] [VT] 
+&lt;/LI&gt;
+											
+                
+&lt;LI&gt;Superfood Slaw with Apple Cider Vinaigrette, Pecans, and Golden Raisins [V] [A] [N] [VT] 
+&lt;/LI&gt;
+											
+                
+&lt;LI&gt;Caesar Salad [D] [FS] [SY] [W] [G] 
+&lt;/LI&gt;
+											
+                
+&lt;LI&gt;At The Salad Bar build-your-own salad using a variety of salad greens, fresh vegetables, plant proteins, other toppings and salad dressings. 
+&lt;/LI&gt;
+											
+                &lt;/UL&gt;
+			THE DELI 
+&lt;UL&gt;
+&lt;LI&gt;Make-your-own Sandwich from turkey breast, ham, hummus, assorted cheeses, assorted sandwich  salads, lettuce leaves, sliced tomatoes, sliced red onion, pickles, assorted spreads, breads and rolls. 
+&lt;/LI&gt;
+											
+                &lt;/UL&gt;
+			STARCHES 
+&lt;UL&gt;
+&lt;LI&gt;Buttered Egg Noodles with Parsley [D] [E] [W] [G] [VT] 
+&lt;/LI&gt;
+											
+                &lt;/UL&gt;
+			THE VEGETABLES 
+&lt;UL&gt;
+&lt;LI&gt;Steamed Brussels Sprouts [V] [VT] 
+&lt;/LI&gt;
+											
+                
+&lt;LI&gt;Roasted Cauliflower [V] [VT] 
+&lt;/LI&gt;
+											
+                &lt;/UL&gt;
+			DESSERTS 
+&lt;UL&gt;
+&lt;LI&gt;Angel Food Cake [A] [E] [W] [G] [VT] 
+&lt;/LI&gt;
+											
+                &lt;/UL&gt;
+			THE GRILL 
+&lt;UL&gt;
+&lt;LI&gt;Chicken Schnitzel [D] [E] [W] [G] 
+&lt;/LI&gt;
+											
+                
+&lt;LI&gt;Grilled-to-order All-Natural Burgers and Cheeseburgers, All-Natural Chicken Breasts, and Vegan Black Bean Veggie Burgers. 
+&lt;/LI&gt;
+											
+                &lt;/UL&gt;
+			
+	  
+&lt;br&gt;&lt;strong&gt;Dietary &amp; Food Allergy Codes&lt;/strong&gt;
+&lt;table cellpadding="2"&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[GF]&lt;/td&gt;
+&lt;td&gt;Gluten Free Entrees&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[VT]&lt;/td&gt;
+&lt;td&gt;Vegetarian Entrees&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[V]&lt;/td&gt;
+&lt;td&gt;Vegan Entrees&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[A]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Alcohol&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[D]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Dairy&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[E]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Eggs&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[FS]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Fish and Seafood&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[G]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Gluten&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[N]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Tree Nuts&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[P]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Pork&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[PN]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Peanuts&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[S]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Shellfish&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[SY]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Soy&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[W]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Wheat&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;/table&gt;
+	  </description>
+
+<link>http://www.yaledining.org/menu.cfm?mDH=6&amp;mDate=03/14/2016</link>
+      <author>yale.dining@yale.edu (Yale Dining Webmaster)</author>
+      <pubDate>Mon, 14 Mar 2016 02:01:00 EST</pubDate>
+</item>
+
+<item>
+	  <guid isPermaLink="false">73B69A7F-A446-7385-9562F476F50F0C99</guid>
+      <title>Hall of Graduate Studies Menu for Mon, Mar 14, 16</title>
+      <description>	  
+	  &lt;p&gt;Menus as served are subject to local changes.&lt;/p&gt;
+	
+	    	&lt;br&gt;&lt;strong&gt;Lunch&lt;/strong&gt; &lt;br&gt;
+        
+		THE SALAD 
+&lt;UL&gt;
+&lt;LI&gt;At The Salad Bar build-your-own salad using a variety of salad greens, fresh vegetables, plant proteins, other toppings and salad dressings. 
+&lt;/LI&gt;
+											
+                &lt;/UL&gt;
+			THE DELI 
+&lt;UL&gt;
+&lt;LI&gt;Make-your-own Sandwich from turkey breast, ham, hummus, assorted cheeses, assorted sandwich  salads, lettuce leaves, sliced tomatoes, sliced red onion, pickles, assorted spreads, breads and rolls. 
+&lt;/LI&gt;
+											
+                &lt;/UL&gt;
+			
+	    	&lt;br&gt;&lt;strong&gt;Dinner&lt;/strong&gt; &lt;br&gt;
+        
+		THE SALAD 
+&lt;UL&gt;
+&lt;LI&gt;At The Salad Bar build-your-own salad using a variety of salad greens, fresh vegetables, plant proteins, other toppings and salad dressings. 
+&lt;/LI&gt;
+											
+                &lt;/UL&gt;
+			THE DELI 
+&lt;UL&gt;
+&lt;LI&gt;Make-your-own Sandwich from turkey breast, ham, hummus, assorted cheeses, assorted sandwich  salads, lettuce leaves, sliced tomatoes, sliced red onion, pickles, assorted spreads, breads and rolls. 
+&lt;/LI&gt;
+											
+                &lt;/UL&gt;
+			
+	  
+&lt;br&gt;&lt;strong&gt;Dietary &amp; Food Allergy Codes&lt;/strong&gt;
+&lt;table cellpadding="2"&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[GF]&lt;/td&gt;
+&lt;td&gt;Gluten Free Entrees&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[VT]&lt;/td&gt;
+&lt;td&gt;Vegetarian Entrees&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[V]&lt;/td&gt;
+&lt;td&gt;Vegan Entrees&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[A]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Alcohol&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[D]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Dairy&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[E]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Eggs&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[FS]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Fish and Seafood&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[G]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Gluten&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[N]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Tree Nuts&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[P]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Pork&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[PN]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Peanuts&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[S]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Shellfish&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[SY]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Soy&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[W]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Wheat&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;/table&gt;
+	  </description>
+
+<link>http://www.yaledining.org/menu.cfm?mDH=12&amp;mDate=03/14/2016</link>
+      <author>yale.dining@yale.edu (Yale Dining Webmaster)</author>
+      <pubDate>Mon, 14 Mar 2016 02:01:00 EST</pubDate>
+</item>
+
+<item>
+	  <guid isPermaLink="false">73B69A80-AA3B-8A2F-2D73B86D533CECAC</guid>
+      <title>Marigolds Menu for Mon, Mar 14, 16</title>
+      <description>	  
+	  &lt;p&gt;Menus as served are subject to local changes.&lt;/p&gt;
+	
+	    	&lt;br&gt;&lt;strong&gt;Lunch&lt;/strong&gt; &lt;br&gt;
+        
+		ENTREES 
+&lt;UL&gt;
+&lt;LI&gt;All Natural burgers, Gardenburgers, black bean burgers, chicken breasts, breaded chicken filet, spicy chicken wings, chicken tenders, onion rings and French fries. 
+&lt;/LI&gt;
+											
+                &lt;/UL&gt;
+			THE SALAD 
+&lt;UL&gt;
+&lt;LI&gt;At The Salad Bar build-your-own salad using a variety of salad greens, fresh vegetables, plant proteins, animal proteins, other toppings, and salad dressings. 
+&lt;/LI&gt;
+											
+                &lt;/UL&gt;
+			THE DELI 
+&lt;UL&gt;
+&lt;LI&gt;All-Natural Ham and Swiss Sandwich with Apricot Jam on Whole Wheat Bread [D] [P] 
+&lt;/LI&gt;
+											
+                
+&lt;LI&gt;Tuna Nicoise Sandwich on Pumpernickel Bread [FS] [W] [G] 
+&lt;/LI&gt;
+											
+                
+&lt;LI&gt;Thai Curry Sandwich on a Brioche Roll [D] [E] [SY] [W] 
+&lt;/LI&gt;
+											
+                
+&lt;LI&gt;All-Natural Turkey Sandwich with Swiss Cheese and Sour Cherry Mustard on a Multigrain Roll [A] [D] [SY] [W] [G] 
+&lt;/LI&gt;
+											
+                
+&lt;LI&gt;Roast Beef Sandwich with Spicy Feta and Balsamic Onions on a Rosemary Roll [D] [W] [G] 
+&lt;/LI&gt;
+											
+                &lt;/UL&gt;
+			
+	  
+&lt;br&gt;&lt;strong&gt;Dietary &amp; Food Allergy Codes&lt;/strong&gt;
+&lt;table cellpadding="2"&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[GF]&lt;/td&gt;
+&lt;td&gt;Gluten Free Entrees&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[VT]&lt;/td&gt;
+&lt;td&gt;Vegetarian Entrees&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[V]&lt;/td&gt;
+&lt;td&gt;Vegan Entrees&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[A]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Alcohol&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[D]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Dairy&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[E]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Eggs&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[FS]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Fish and Seafood&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[G]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Gluten&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[N]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Tree Nuts&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[P]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Pork&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[PN]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Peanuts&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[S]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Shellfish&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[SY]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Soy&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[W]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Wheat&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;/table&gt;
+	  </description>
+
+<link>http://www.yaledining.org/menu.cfm?mDH=15&amp;mDate=03/14/2016</link>
+      <author>yale.dining@yale.edu (Yale Dining Webmaster)</author>
+      <pubDate>Mon, 14 Mar 2016 02:01:00 EST</pubDate>
+</item>
+
+<item>
+	  <guid isPermaLink="false">73B69A81-D17E-B170-A9B865BD9AE59FC1</guid>
+      <title>KBT Cafe Menu for Mon, Mar 14, 16</title>
+      <description>	  
+	  &lt;p&gt;Menus as served are subject to local changes.&lt;/p&gt;
+	
+	    	&lt;br&gt;&lt;strong&gt;Lunch&lt;/strong&gt; &lt;br&gt;
+        
+		THE SALAD 
+&lt;UL&gt;
+&lt;LI&gt;Greek Salad [D] [VT] 
+&lt;/LI&gt;
+											
+                
+&lt;LI&gt;Southwest Chicken Salad 
+&lt;/LI&gt;
+											
+                
+&lt;LI&gt;Kale Salad with Gigante Beans, Butternut Squash, and Cherries [V] [SY] [VT] 
+&lt;/LI&gt;
+											
+                &lt;/UL&gt;
+			THE DELI 
+&lt;UL&gt;
+&lt;LI&gt;All-Natural Ham and Swiss Sandwich with Apricot Jam on Whole Wheat Bread [D] [P] 
+&lt;/LI&gt;
+											
+                
+&lt;LI&gt;Tuna Nicoise Sandwich on Pumpernickel Bread [FS] [W] [G] 
+&lt;/LI&gt;
+											
+                
+&lt;LI&gt;Thai Curry Sandwich on a Brioche Roll [D] [E] [SY] [W] 
+&lt;/LI&gt;
+											
+                
+&lt;LI&gt;All-Natural Turkey Sandwich with Swiss Cheese and Sour Cherry Mustard on a Multigrain Roll [A] [D] [SY] [W] [G] 
+&lt;/LI&gt;
+											
+                
+&lt;LI&gt;Roast Beef Sandwich with Spicy Feta and Balsamic Onions on a Rosemary Roll [D] [W] [G] 
+&lt;/LI&gt;
+											
+                
+&lt;LI&gt;Roasted Vegetable Banh Mi with Chipotle Aioli [D] [W] [G] [VT] 
+&lt;/LI&gt;
+											
+                &lt;/UL&gt;
+			DESSERTS 
+&lt;UL&gt;
+&lt;LI&gt;Butterscotch Blondies [A] [D] [E] [SY] [W] [G] [VT] 
+&lt;/LI&gt;
+											
+                &lt;/UL&gt;
+			PIZZA 
+&lt;UL&gt;
+&lt;LI&gt;Buffalo Chicken Flatbread [D] [W] [G] 
+&lt;/LI&gt;
+											
+                
+&lt;LI&gt;Eggplant Parmigiana Flatbread [D] [E] [SY] [W] [G] [VT] 
+&lt;/LI&gt;
+											
+                &lt;/UL&gt;
+			
+	  
+&lt;br&gt;&lt;strong&gt;Dietary &amp; Food Allergy Codes&lt;/strong&gt;
+&lt;table cellpadding="2"&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[GF]&lt;/td&gt;
+&lt;td&gt;Gluten Free Entrees&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[VT]&lt;/td&gt;
+&lt;td&gt;Vegetarian Entrees&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[V]&lt;/td&gt;
+&lt;td&gt;Vegan Entrees&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[A]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Alcohol&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[D]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Dairy&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[E]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Eggs&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[FS]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Fish and Seafood&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[G]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Gluten&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[N]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Tree Nuts&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[P]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Pork&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[PN]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Peanuts&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[S]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Shellfish&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[SY]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Soy&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[W]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Wheat&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;/table&gt;
+	  </description>
+
+<link>http://www.yaledining.org/menu.cfm?mDH=16&amp;mDate=03/14/2016</link>
+      <author>yale.dining@yale.edu (Yale Dining Webmaster)</author>
+      <pubDate>Mon, 14 Mar 2016 02:01:00 EST</pubDate>
+</item>
+
+<item>
+	  <guid isPermaLink="false">73B69A91-AC8E-3B83-123773BDE68816AB</guid>
+      <title>West Campus Menu for Mon, Mar 14, 16</title>
+      <description>	  
+	  &lt;p&gt;Menus as served are subject to local changes.&lt;/p&gt;
+	
+	    	&lt;br&gt;&lt;strong&gt;Lunch&lt;/strong&gt; &lt;br&gt;
+        
+		ENTREES 
+&lt;UL&gt;
+&lt;LI&gt;Grilled Wild Alaskan Salmon with Fresh Herbs and Honey [FS] 
+&lt;/LI&gt;
+											
+                
+&lt;LI&gt;Crimini and Edamame with Herbs [V] [SY] [VT] 
+&lt;/LI&gt;
+											
+                &lt;/UL&gt;
+			THE SOUP 
+&lt;UL&gt;
+&lt;LI&gt;Chicken Noodle and Vegetable Soup [E] [W] [G] 
+&lt;/LI&gt;
+											
+                
+&lt;LI&gt;Cream of Broccoli Soup [D] [W] [G] [VT] 
+&lt;/LI&gt;
+											
+                &lt;/UL&gt;
+			THE SALAD 
+&lt;UL&gt;
+&lt;LI&gt;White Bean Salad with Watercress, Rainbow Chard, and Parmesan Cheese [D] [VT] 
+&lt;/LI&gt;
+											
+                &lt;/UL&gt;
+			THE VEGETABLES 
+&lt;UL&gt;
+&lt;LI&gt;Roasted Green Beans [V] [VT] 
+&lt;/LI&gt;
+											
+                &lt;/UL&gt;
+			DESSERTS 
+&lt;UL&gt;
+&lt;LI&gt;Butterscotch Blondies [A] [D] [E] [SY] [W] [G] [VT] 
+&lt;/LI&gt;
+											
+                &lt;/UL&gt;
+			PIZZA 
+&lt;UL&gt;
+&lt;LI&gt;Chefs Choice Flatbread [D] [E] [SY] [W] [G] 
+&lt;/LI&gt;
+											
+                
+&lt;LI&gt;Cheese Flatbread [D] [E] [SY] [W] [G] [VT] 
+&lt;/LI&gt;
+											
+                &lt;/UL&gt;
+			
+	  
+&lt;br&gt;&lt;strong&gt;Dietary &amp; Food Allergy Codes&lt;/strong&gt;
+&lt;table cellpadding="2"&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[GF]&lt;/td&gt;
+&lt;td&gt;Gluten Free Entrees&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[VT]&lt;/td&gt;
+&lt;td&gt;Vegetarian Entrees&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[V]&lt;/td&gt;
+&lt;td&gt;Vegan Entrees&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[A]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Alcohol&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[D]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Dairy&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[E]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Eggs&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[FS]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Fish and Seafood&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[G]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Gluten&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[N]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Tree Nuts&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[P]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Pork&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[PN]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Peanuts&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[S]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Shellfish&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[SY]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Soy&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[W]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Wheat&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;/table&gt;
+	  </description>
+
+<link>http://www.yaledining.org/menu.cfm?mDH=22&amp;mDate=03/14/2016</link>
+      <author>yale.dining@yale.edu (Yale Dining Webmaster)</author>
+      <pubDate>Mon, 14 Mar 2016 02:01:00 EST</pubDate>
+</item>
+
+<item>
+	  <guid isPermaLink="false">73B69A92-CA6B-D7AA-9B9A9E533ACFDB28</guid>
+      <title>HC Cafe Menu for Mon, Mar 14, 16</title>
+      <description>	  
+	  &lt;p&gt;Menus as served are subject to local changes.&lt;/p&gt;
+	
+	    	&lt;br&gt;&lt;strong&gt;Lunch&lt;/strong&gt; &lt;br&gt;
+        
+		THE SALAD 
+&lt;UL&gt;
+&lt;LI&gt;Greek Salad [D] [VT] 
+&lt;/LI&gt;
+											
+                
+&lt;LI&gt;Southwest Chicken Salad 
+&lt;/LI&gt;
+											
+                
+&lt;LI&gt;Kale Salad with Gigante Beans, Butternut Squash, and Cherries [V] [SY] [VT] 
+&lt;/LI&gt;
+											
+                &lt;/UL&gt;
+			THE DELI 
+&lt;UL&gt;
+&lt;LI&gt;All-Natural Ham and Swiss Sandwich with Apricot Jam on Whole Wheat Bread [D] [P] 
+&lt;/LI&gt;
+											
+                
+&lt;LI&gt;Tuna Nicoise Sandwich on Pumpernickel Bread [FS] [W] [G] 
+&lt;/LI&gt;
+											
+                
+&lt;LI&gt;Thai Curry Sandwich on a Brioche Roll [D] [E] [SY] [W] 
+&lt;/LI&gt;
+											
+                
+&lt;LI&gt;All-Natural Turkey Sandwich with Swiss Cheese and Sour Cherry Mustard on a Multigrain Roll [A] [D] [SY] [W] [G] 
+&lt;/LI&gt;
+											
+                
+&lt;LI&gt;Roast Beef Sandwich with Spicy Feta and Balsamic Onions on a Rosemary Roll [D] [W] [G] 
+&lt;/LI&gt;
+											
+                
+&lt;LI&gt;Roasted Vegetable Banh Mi with Chipotle Aioli [D] [W] [G] [VT] 
+&lt;/LI&gt;
+											
+                &lt;/UL&gt;
+			DESSERTS 
+&lt;UL&gt;
+&lt;LI&gt;Butterscotch Blondies [A] [D] [E] [SY] [W] [G] [VT] 
+&lt;/LI&gt;
+											
+                &lt;/UL&gt;
+			
+	  
+&lt;br&gt;&lt;strong&gt;Dietary &amp; Food Allergy Codes&lt;/strong&gt;
+&lt;table cellpadding="2"&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[GF]&lt;/td&gt;
+&lt;td&gt;Gluten Free Entrees&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[VT]&lt;/td&gt;
+&lt;td&gt;Vegetarian Entrees&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[V]&lt;/td&gt;
+&lt;td&gt;Vegan Entrees&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[A]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Alcohol&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[D]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Dairy&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[E]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Eggs&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[FS]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Fish and Seafood&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[G]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Gluten&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[N]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Tree Nuts&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[P]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Pork&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[PN]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Peanuts&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[S]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Shellfish&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[SY]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Soy&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[W]&lt;/td&gt;
+&lt;td&gt;Menu Items Containing Wheat&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;/table&gt;
+	  </description>
+
+<link>http://www.yaledining.org/menu.cfm?mDH=26&amp;mDate=03/14/2016</link>
+      <author>yale.dining@yale.edu (Yale Dining Webmaster)</author>
+      <pubDate>Mon, 14 Mar 2016 02:01:00 EST</pubDate>
+</item>
+
+</channel>
+</rss>
+
